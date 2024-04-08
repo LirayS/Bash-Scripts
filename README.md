@@ -8,4 +8,4 @@
 # IMPORTANT!!
 # Use those scripts in an ethical way, I am not responsible for any damage may be cause by running those scripts.
 
-# You can contact me for questions or work offers of course via my Linkedin www.linkedin.com/in/liray-spilberg
+# You can contact me for questions or work offers of course via my Linkedin - www.linkedin.com/in/liray-spilberg
