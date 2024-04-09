@@ -3,7 +3,7 @@
 # The Honeypot-Alerter tool is designed to automate the creation of a honeypot and monitor it for any activity, sending alerts in case of detected activity.
 #
 # INSTALLATION
-# git clone https://github.com/LirayS/Honeytpot-Alerter.git
+# git clone https://github.com/LirayS/Bash-Scripts/Honeypot-Alerter.git
 # cd Honeytpot-Alerter
 # chmod +x *.sh
 # sudo ./honeytpot.sh --- in 1st terminal 
