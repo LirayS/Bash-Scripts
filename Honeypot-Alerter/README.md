@@ -5,8 +5,9 @@
 # INSTALLATION
 # git clone https://github.com/LirayS/Honeytpot-Alerter.git
 # cd Honeytpot-Alerter
-# chmod +x Honeytpot-Alerter.sh
-# sudo ./Honeytpot-Alerter.sh
+# chmod +x *.sh
+# sudo ./honeytpot.sh --- in 1st terminal
+# sudo ./alerter.sh --- in 2nd terminal
 #
 # DISCLAIMER
 # This tool is intended for educational and informational purposes only. 
