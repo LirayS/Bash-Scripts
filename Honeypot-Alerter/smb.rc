@@ -1,0 +1,3 @@
+use auxiliary/server/capture/smb
+run -j
+jobs
