@@ -6,7 +6,6 @@
 #
 # INSTALLATION
 # git clone https://github.com/LirayS/ssh-helper-tool.git
-# uznip SSH-helper-tool.zip
 # cd SSH-helper-tool
 # chmod +x SSH-helper-tool.sh
 # sudo ./SSH-helper-tool.sh
