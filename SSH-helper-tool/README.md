@@ -5,7 +5,7 @@
 # Ensure to run this script using sudo privileges.
 #
 # INSTALLATION
-# git clone https://github.com/LirayS/ssh-helper-tool.git
+# git clone https://github.com/LirayS/Bash-Scripts.git
 # cd SSH-helper-tool
 # chmod +x SSH-helper-tool.sh
 # sudo ./SSH-helper-tool.sh
