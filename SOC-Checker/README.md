@@ -9,7 +9,7 @@
 # Man-in-the-Middle (MITM) Attack: Prompts the user to input the network interface and gateway IP for the attack and executes an ARP spoofing attack using arpspoof
 #
 # Installation
-# git clone https://github.com/LirayS/SOC-Checker.git
+# git clone https://github.com/LirayS/Bash-Scripts.git
 # cd SOC-Checker
 # chmod +x SOC-Checker.sh
 # sudo ./SOC-Checker.sh
