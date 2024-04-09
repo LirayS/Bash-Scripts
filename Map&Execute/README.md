@@ -9,7 +9,7 @@
 # Reporting: The script generates a detailed report of the scanning and attack results.
 # 
 # Installation
-# git clone https://github.com/LirayS/Bash-Scripts/Map&Execute.git
+# git clone https://github.com/LirayS/Bash-Scripts.git
 # cd Map&Execute
 # chmod +x vulner_script.sh
 # sudo ./vulner_script.sh
