@@ -8,7 +8,7 @@ tail -F alerter.txt | while read -r line; do
         echo "IP address detected: $line"
         read -p "Do you want to run scanner_script? (y/n): " answer
         if [ "$answer" == "y" ]; then
-            ./scanner_script  # Replace with the actual path to your scanner script
+            ./scanner_script  
         else
             echo "Caught someone! Run scanner_script manually for more information! :) "
         fi
