@@ -18,7 +18,7 @@
 # Network Scanning with nmap: Performs network scans on the top 10 domain names extracted from output file.
 # 
 # Installation
-# git clone https://github.com/LirayS/Windows-Forensics.git
+# git clone https://github.com/LirayS/Bash-Scripts.git
 # cd Windows-Forensics
 # chmod +x Automated_file_analyzer.sh
 # sudo ./Automated_file_analyzer.sh or ./memory&nmap.sh
